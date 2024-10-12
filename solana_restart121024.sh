@@ -51,3 +51,5 @@ EOF"
 sudo systemctl daemon-reload
 
 sudo systemctl restart solana
+
+agave-validator monitor
